@@ -1,7 +1,7 @@
 # nodejs-api-authentication
 My project watching the CodeWorkr video series
 
-* (API Authentication with Node Part #1 - Introduction)[https://www.youtube.com/watch?v=zx6jnaLuB9Q]
+* [API Authentication with Node Part #1 - Introduction](https://www.youtube.com/watch?v=zx6jnaLuB9Q)
 
 * Phase I
   * Authentication Overview
